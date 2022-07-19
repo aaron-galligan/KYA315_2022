@@ -6,7 +6,7 @@ Conda is an open source package/environment management system that we will use t
 
     https://docs.conda.io/en/latest/miniconda.html
   
-and download the latest version suitable for your operating system. Opening the downloaded file will bring up a prompt which you can following to install Miniconda. *Note: Mac/Linux users will likely need to select "Add Anaconda to my PATH environment variable"*
+and download the latest version suitable for your operating system. Opening the downloaded file will bring up a prompt which you can follow to install Miniconda. *Note: Mac/Linux users will likely need to select "Add Anaconda to my PATH environment variable"*
 
 Open up a window in either **Anaconda Prompt** (Windows) or **Terminal** (Mac/Linux).  The input line should look something like this:
 
