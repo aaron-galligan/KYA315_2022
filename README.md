@@ -17,7 +17,7 @@ If it does not have the `(base)` then you may need to restart your computer. If 
 ## Creating a conda environment
 To create the environment needed for this unit, download the `fluids_environment.yml` file from this repo. Navigate from your command line to the directory of the file and run
 
-    conda env create -f fluids_enviroment.yml
+    conda env create -f fluids_environment.yml
     
 This will take a few minutes.  Please ensure you are connected to the internet. To activate the environment simply run
 
